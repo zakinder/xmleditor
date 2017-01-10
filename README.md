@@ -1,1 +1,2 @@
-# xmleditor
+Maintainer: Sakinder
+===========
